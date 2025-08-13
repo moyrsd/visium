@@ -3,4 +3,6 @@ __pycache__/
 *.pyc
 *.pyo
 *.pyd
-media/
+static/
+temp_scripts/
+.env
